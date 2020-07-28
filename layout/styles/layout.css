@@ -800,7 +800,7 @@ border-top:1px solid grey ;
 
 @media screen and (max-width: 620px) { 
 	.newp1 {
-	 padding-left: 15px;
+	 padding-left: 25px;
    
 	   
    }
@@ -810,12 +810,12 @@ border-top:1px solid grey ;
 	  
   }
   .newp3 {
-	padding-left: 12px;
+	padding-left: 0px;
   
 	  
   }
   .newp4 {
-	padding-left: 13px;
+	padding-left: 15px;
   
 	  
   }
