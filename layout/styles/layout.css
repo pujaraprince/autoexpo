@@ -785,6 +785,10 @@ border-top:1px solid grey ;
 	  width: 100%;
 	  text-align: center;
 	}
+	    #footer .contact.linklist li, #footer .contact.linklist li:last-child {
+	   padding-left: 20px;
+	   position: relative;
+   }
   }
 
  
@@ -800,7 +804,7 @@ border-top:1px solid grey ;
 
 @media screen and (max-width: 620px) { 
 	.newp1 {
-	 padding-left: 25px;
+	 padding-left: 20px;
    
 	   
    }
